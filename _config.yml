@@ -1,5 +1,5 @@
 site: Atomic Thoughts
-# url: "https://sudoankit.github.io"
+url: "https://sudoankit.github.io"
 title: Atomic Thoughts
 description: Quick Blog Posts
 author:
@@ -11,7 +11,7 @@ author:
   
 permalink: pretty
 
-baseurl: "/at"
+baseurl: "/at/"
 
 highlighter: rogue
 
