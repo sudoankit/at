@@ -1,10 +1,10 @@
 links:
 - title: Home
-  url: at/
+  url: /
 - title: italics
-  url: at/tag/italics/
+  url: /tag/italics/
 - title: About
   url: https://www.sudoankit.xyz
 - title: Search
-  url: at/search
+  url: /search
 
