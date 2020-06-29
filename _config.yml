@@ -11,7 +11,7 @@ author:
   
 permalink: pretty
 
-baseurl: "https://sudoankit.github.io/at/"
+baseurl: "/at"
 
 highlighter: rogue
 
