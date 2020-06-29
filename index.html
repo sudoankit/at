@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<section class="posts">
+<ul>
+<h1 style="color:blue;"><b>Atomic Thoughts</b></h1>
+{% for post in site.posts %}
+{% unless post.exclude %}
+<li>
+
+	<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time>
+
+</li>
+{% endunless %}
+{% endfor %}
+</ul>
+</section>
+

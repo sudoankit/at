@@ -1,0 +1,36 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  {% seo title=false %}
+
+  <title>
+      {% if page.tag or page.title %}
+        {% if page.tag %}
+          {{ page.tag | escape }}
+        {% else %}
+          {{ page.title | escape }}
+        {% endif %}
+        -
+      {% endif %}
+
+      {% if paginator and paginator.page and paginator.total_pages > 1 and paginator.page > 1 %}
+        Page {{ paginator.page }} of {{ paginator.total_pages }} -
+      {% endif %}
+      
+      {{ site.title | escape }}
+      {% unless page.tag or page.title %}
+        - {{ site.description | escape }}
+      {% endunless %}
+  </title>
+  
+
+      
+  <style>
+    {% capture include_to_scssify %}
+      {% include inline.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+  </style>
+
+</head>
