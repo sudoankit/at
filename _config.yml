@@ -1,5 +1,5 @@
 site: Atomic Thoughts
-url: "https://sudoankit.github.io"
+url: https://atomic-thoughts.netlify.app
 title: Atomic Thoughts
 description: Quick Blog Posts
 author:
@@ -11,7 +11,7 @@ author:
   
 permalink: pretty
 
-baseurl: "/at/"
+baseurl: ""
 
 highlighter: rogue
 
