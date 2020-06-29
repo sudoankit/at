@@ -4,6 +4,8 @@ title: Search
 
 ---
 
+<h6>Search only works for posts or tags.</h6>
+
 <style>
 	#search-container {
 	    max-width: 100%;
@@ -24,6 +26,8 @@ title: Search
 		margin: .5rem 0;
 	}
 </style>
+
+
 
 <!-- Html Elements for Search -->
 <div id="search-container">
@@ -47,3 +51,4 @@ SimpleJekyllSearch({
   exclude: ['Welcome']
 })
 </script>
+
