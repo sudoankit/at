@@ -4,7 +4,7 @@ layout: default
 
 <section class="post">
   <h2>{{ page.title }}</h2>
-  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time> | MIT License, @sudoankit<br> {% for tag in page.tags %}
+  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time> | MIT License, <a href="https://www.sudoankit.xyz" style="color: grey">@sudoankit</a><br> {% for tag in page.tags %}
     <a href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %} </span>
 
   {{ content }}
