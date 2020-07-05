@@ -6,7 +6,7 @@ tags: [social media, COVID19]
 ---
 
 
-I recently deleted my [Twitter account](twitter.com/sudoankit) and I think I did right.
+I recently deleted my [Twitter account](https://www.twitter.com/sudoankit) and I think I did right.
 
 ### Anger
 
