@@ -59,6 +59,10 @@ pre {
 	margin: 1rem 0;
 }
 
+.post h3 {
+	font-size: 22px;
+}
+
 .post h2:first-child, .project h2:first-child, .photo h2:first-child {
 	margin-top: 0;
 }
@@ -145,8 +149,8 @@ header,section {
 blockquote {
 
 	color: grey;
-    border-top: 1px solid grey;
-    border-bottom: 1px solid grey;
+	
+	padding-left: 20px;
  
 }
 
