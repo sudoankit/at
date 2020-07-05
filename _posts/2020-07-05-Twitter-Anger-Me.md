@@ -74,7 +74,7 @@ Censorship plays a major part in online experiences. Freedom is not absolute. Ev
 
 I want to write more but <font color="red"><i>[censored]</i></font>
 
-Doxxing is absolutely horrendous and I applaud [Scott Alexander's response to NYT](https://slatestarcodex.com), who was going to doxx his real name, by deleting his blog. I'm a huge advocate of privacy and respect people's personal space.
+Doxxing is absolutely horrendous and I applaud [Scott Alexander's response to NYT](https://slatestarcodex.com) (the NYT reporter was going to doxx his real name) by deleting his blog. I'm a huge advocate of privacy and respect people's personal space.
 
 I'm often furious at fellow Indians (and anyone) who absolutely have no regards to personal space or privacy. It's always "our" stuff and they need to know everything about you. 
 
