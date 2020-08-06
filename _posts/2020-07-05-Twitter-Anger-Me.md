@@ -44,7 +44,7 @@ Those who didn't play hated it. Those who didn't play also loved it. Fans those 
 
 ***It's a personal opinion*** but nah, mass brigading (aka review bombing) and also excessive sucking by fans pretty much created an unnecessary drama.
 
-As I said before, right now any logical, civil discussion online is nearly impossible without toxicity and hatred. Everyone is build up to unleash and majority of human don't go single, they go as ***humans***. A flock of sheep. 
+As I said before, right now any logical, civil discussion online is nearly impossible without toxicity and hatred. Everyone is build up to unleash anger. 
 
 It's natural. 
 
@@ -74,7 +74,8 @@ Censorship plays a major part in online experiences. Freedom is not absolute. Ev
 
 I want to write more but <font color="red"><i>[censored]</i></font>
 
-Doxxing is absolutely horrendous and I applaud [Scott Alexander's response to NYT](https://slatestarcodex.com) (the NYT reporter was going to doxx his real name) by deleting his blog. I'm a huge advocate of privacy and respect people's personal space.
+~~Doxxing is absolutely horrendous and I applaud [Scott Alexander's response to NYT](https://slatestarcodex.com) (the NYT reporter was going to doxx his real name) by deleting his blog. I'm a huge advocate of privacy and respect people's personal space.~~  <font color="red"> As of 25th July, 2020, his blog is up again.</font> 
+
 
 I'm often furious at fellow Indians (and anyone) who absolutely have no regards to personal space or privacy. It's always "our" stuff and they need to know everything about you. 
 
@@ -117,6 +118,6 @@ Just iterating what I discussed,
 
 I am only on Reddit as of now and if I look back, I left Facebook in 2010, I left Quora in 2016/17 and I left Twitter in June, 2020.
 
-I find my hand often hovering around Reddit's delete options but somehow I still believe that I still can fish out a doll out of Reddit's cesspool of politics, of hippies, of crime, of gore and violence. 
+I find my hand often hovering around Reddit's delete options but somehow I still believe that I still can fish out some love out of Reddit's cesspool of politics, of hippies, of crime, of gore and violence. 
 
 Call it *Magic*.

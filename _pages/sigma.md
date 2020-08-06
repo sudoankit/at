@@ -78,7 +78,7 @@ These are some books I have read and find them worth.
 - Computer Vision: Models, Learning, and Inference, Simon J. D. Prince
 - Learning OpenCV3 Computer Vision in C++ with the OpenCV library, Adrian Kaehler and Gary Bradski
 
-#### Machine Learning ( Deep Learning $\in$ Machine Learning)
+#### Machine Learning++
 
 - Pattern Recognition and Machine Learning, Christopher M. Bishop
 - Elements of Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome Friedman 
@@ -86,7 +86,7 @@ These are some books I have read and find them worth.
 
 #### Neuroscience
 
-- An Introduction to Neural Networks, James A. Anderson ( _Neurobiology and Neurocomputingl_ )
+- An Introduction to Neural Networks, James A. Anderson ( _Neurobiology and Neurocomputing_ )
 - Principles of Neural Design, Peter Sterling.
 
 
