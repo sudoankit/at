@@ -34,6 +34,6 @@ Please laugh, enjoy and talk to anyone especially during 2020. If you need a pep
 
 We have overcome everything and I'm positive we will overcome this too. As [Nike](https://www.youtube.com/watch?v=WA4dDs0T7sM) says, we will win if we work together and being sad, depressed is being lonely. Don't worry. I'm with you. 
 
-COVID is a bitch. Stay safe. Eat, sleep well and exercise.🧴👋🏽  
+COVID is a bitch. Stay safe.🧴👋🏽  
 
 Let's win this together.
