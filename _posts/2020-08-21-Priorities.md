@@ -49,7 +49,7 @@ Let me express it in simple maths if it's confusing.
 
 To purchase something which whose price is $X$ -- buy it if you have $2X$ money to spend. If you believe $2X$ will upset your budgets, allowances than don't buy it for $X$.
 
-This distills to a simple concept: 
+As this made it more confusing, lol, let's distill it to a simple concept: 
 
 ***Advice #3: Save your money.***
 

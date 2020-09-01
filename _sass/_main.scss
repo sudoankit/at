@@ -89,7 +89,8 @@ pre {
 .post pre,
 .post code {
   // border: 1px solid #d5d5e9;
-  // background-color: #fff;
+  background-color: #333;
+  font-family: Menlo, monospace;
   padding: 8px 12px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -111,6 +112,7 @@ pre {
 
 /* terminal */
 .post pre.terminal {
+  
   border: 1px solid #000;
   background-color: #333;
   color: #FFF;
@@ -226,7 +228,7 @@ header,section {
 blockquote {
 
 	color: grey;
-	
+	border-left: 1px solid gray;
 	padding-left: 20px;
  
 }
