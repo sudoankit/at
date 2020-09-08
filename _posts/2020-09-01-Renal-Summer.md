@@ -25,7 +25,7 @@ Right now every occurrence of “AI” in general public marketing ads are bluff
 
 The creativity and imagination of a human brain is Nature’s magnus opus. 
 
-Research moves forward trying to create software, language models (GPT-3, OpenAI), high performing vision systems (Waymo, Tesla), planet size recommendation engines and databases (Monarch: Google, FB) and Deep RL models which beat human players in competitive games (DeepMind AlphaGo, AplhaStar, OpenAI, DOTA2) but at the end all of it, all of that, all of these is math, code and costly hardware running for days. 
+Research moves forward trying to create software, language models (GPT-3, OpenAI), high performing vision systems (Waymo, Tesla), planet size recommendation engines and databases (Monarch: Google, FB) and Deep RL models which beat human players in competitive games (DeepMind's AlphaGo & AplhaStar, OpenAI with DOTA2) but at the end all of it, all of that, all of these is math, code and costly hardware running for days. 
 
 Math explains me what is true but I doubt it can explain me why I need to let that dog not die, just yet.
 

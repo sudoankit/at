@@ -1,7 +1,8 @@
 *,:after,:before {
 	box-sizing:border-box;
-	background-color:black;
-	
+	background-color: #F9F9F7;
+	background-image: url("/assets/texture.png");
+	background-repeat: repeat;
 	margin:0;
 	padding:0;
 }
@@ -12,22 +13,22 @@ body {
     text-rendering: optimizeLegibility;
 	line-height:1.5;
 	font-size: 1.1rem;
-	color: #C0C0C0
+	color: rgb(22, 23, 26);
 	
 }
 
 nav ul {
-    border-right: 2px solid #C0C0C0;
+    border-right: 2px solid #000000;
 }
 
 a {
-    color: #C0C0C0;
+    color: #000;
     text-decoration-skip-ink: auto;
     text-decoration: underline;
 }
 
 a:hover   { 
-  color: #fff; 
+  color: grey; 
   opacity: 0.5;
 
 }
@@ -53,7 +54,7 @@ pre {
 }
 
 .post h2{
-	color:silver;
+	color:blue;
 }
 
 .post h1, .post h2, .post h3, .post h4 {
@@ -70,7 +71,7 @@ pre {
 
 .post a {
 
-	color: #silver; 
+	color: blue; 
   	text-decoration: underline; 
   	-o-transition:.3s;
   	-ms-transition:.3s;
@@ -88,9 +89,8 @@ pre {
 
 .post pre,
 .post code {
-  // border: 1px solid #d5d5e9;
-  background-color: #333;
-  font-family: Menlo, monospace;
+  border: 1px solid #d5d5e9;
+  background-color: #fff;
   padding: 8px 12px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -112,7 +112,6 @@ pre {
 
 /* terminal */
 .post pre.terminal {
-  
   border: 1px solid #000;
   background-color: #333;
   color: #FFF;
@@ -186,18 +185,28 @@ img {
   margin-right: auto;
   max-width: 60%;
     
-  border: 2px solid silver;
+  border: 1px solid #000;
 
 }
 
 hr {
+    border: none;
+    border-top: 1px solid #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    margin-top: 5px;
+    height: 5px;
+}
 
-	height:1px; 
-	border:none; 
-	color:silver; 
-	background-color:silver;
-	margin-top: 10px;
-	// margin-bottom: 10px;
+hr.stylec {
+
+    border: none;
+    border-top: 3px double silver;
+    color: silver;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
 }
 
 
@@ -228,8 +237,9 @@ header,section {
 blockquote {
 
 	color: grey;
-	border-left: 1px solid gray;
+	border-left: solid black 1px;
 	padding-left: 20px;
+	font-style: italic;
  
 }
 
@@ -328,7 +338,7 @@ header li {
 	padding-bottom: 1rem;
 }
 header ul {
-	border-bottom: 1px solid #edf2f7;
+	border-bottom: 1px solid black;
 	padding-bottom: 2rem;	
 }
 nav ul {
@@ -339,16 +349,16 @@ nav ul {
 	margin-top: 0.5rem;
 }
 
-// img {
+img {
 
-//   display: block;
-//   margin-left: auto;
-//   margin-right: auto;
-//   max-width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
     
-//   border: 1px solid #000;
+  border: 1px solid #000;
 
-// }
+}
 
 }
 
