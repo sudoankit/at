@@ -11,6 +11,8 @@ author:
   
 permalink: pretty
 
+future: true
+
 baseurl: ""
 
 highlighter: rogue
